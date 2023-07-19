@@ -1,0 +1,11 @@
+.nav-container{
+    border:1px solid red ;
+    min-height: 50px;
+}
+.logo-container{
+    border:1px solid aqua ;
+}
+
+.nav-item-container{
+    border:1px solid salmon ;
+}
